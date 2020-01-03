@@ -2,4 +2,4 @@
 
 Editing this file for update-readme branch
 
-# updating locally
+# updating locally, then remotely
